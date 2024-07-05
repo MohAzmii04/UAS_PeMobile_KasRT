@@ -23,10 +23,7 @@ Fitur-fitur Aplikasi:
 - Daftar Warga: Menampilkan informasi lengkap warga yang terdaftar, termasuk nama, alamat, email, nomor telepon, dan iuran perwarga yang telah dibayarkan.
 - Laporan Pemasukan: Menampilkan informasi mengenai jumlah iuran bulanan, total pengeluaran, rekap total, jumlah unit rumah, dan unit rumah yang sudah membayar kas.
 - Informasi Pengurus: Informasi tentang nama, nomor telepon, dan jabatan pengurus RT.
-- Informasi Kegiatan: Detail kegiatan seperti nama, tanggal, dana, dan tempat kegiatan yang diadakan di RT.
-- Kontak Layanan Pengguna: Kontak yang dapat dihubungi untuk layanan pengguna aplikasi.
-- Bagikan Info: Fasilitas untuk membagikan informasi melalui WhatsApp.
-
+- Chat : Warga bisa mengirim pesan kesesama Warga
 
 Langkah-langkah Praktikum:
 
